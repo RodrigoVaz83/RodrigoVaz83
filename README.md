@@ -1,16 +1,18 @@
-## Hi there 👋
+### Boas vindas ao meu perfil👋
 
-<!--
-**RodrigoVaz83/RodrigoVaz83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Rodrigo Vaz
 
-Here are some ideas to get you started:
+-Estou desenvolvendo com os alunos programações no [alura] (https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou desenvolvendo na linguagem JavaScript
+
+-Utilizamos esse espaço para nossa organização e compartilhamento dos meus projetos
+
+### você pode contar comigo
+
+rodrigo.vaz.santos@escola.pr.gov.br
+
+@rodrigovaz83
+
+![](https://github.com/user-attachments/assets/31dfbf41-24ad-493b-950e-63757a16b79c)
+
